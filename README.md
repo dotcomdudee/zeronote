@@ -24,7 +24,7 @@ Fully encrypted notepad with rich text support. No logins, no tracking, ever.
 
 A simple Chrome based APK.
 
-[Download Latest Release (v1)](https://code.futureversion.org/Ashley/Zeronote/raw/branch/main/android-apk/Zeronote-v1.apk).
+[Download Latest Release (v1)](https://github.com/dotcomdudee/zeronote/blob/main/Zeronote-v1.apk)
 
 ## Usage
 

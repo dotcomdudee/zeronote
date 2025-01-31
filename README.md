@@ -1,4 +1,4 @@
-<img src="https://cdn.ashleydoesnothaveawebsite.com/files/20488/android-chrome-192x192_1738279047.png" alt="drawing" width="128"/>
+<img src="https://cdn.ashleydoesnothaveawebsite.com/files/93136/paper-shredder_1738311926.png" alt="Zeronote" width="128"/>
 
 # Zeronote
 

@@ -1,6 +1,7 @@
 <img src="https://cdn.ashleydoesnothaveawebsite.com/files/93136/paper-shredder_1738311926.png" alt="Zeronote" width="128"/>
 
 # Zeronote
+[https://znote.app](https://znote.app)
 
 Fully encrypted notepad with rich text support. No logins, no tracking, ever.
 

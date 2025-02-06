@@ -29,19 +29,4 @@ Your notepad names are hashed before being stored in our database. This ensures 
 An anonymity-focused solution. Only a password is needed to encrypt your notes, so there's no need for you to log in or provide your email or any other personal information. No analytics, third-party cookies, or site tracking.
 
 
----
 
-<img src="https://cdn.ashleydoesnothaveawebsite.com/files/23717/apk_1738315159.png" alt="Zeronote" width="128"/>
-
-# Zeronote - Android APK
-
-A simple Chrome based APK.
-
-[Download Latest Release (v1)](https://github.com/dotcomdudee/zeronote/blob/main/Zeronote-v1.apk)
-
-## Usage
-
-1. Download the .apk file to your device
-2. Install. You may have to whitelist.
-
-> If you don't wish to sideload an apk, it can also be installed yourself by visiting https://znote.app in Chrome browser on your device, tapping menu, and 'Add to Homescreen'. 
